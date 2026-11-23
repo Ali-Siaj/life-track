@@ -105,4 +105,4 @@ More detail: [Architecture](docs/architecture.md) · [Syncing and offline mode](
 
 ---
 
-Ali Siaj · [LinkedIn](https://www.linkedin.com/in/ali-siaj) · Other projects: [Swarm Wrath](https://github.com/Ali-Siaj/swarm-wrath) · [COC Vision Bot](https://github.com/Ali-Siaj/coc-vision-bot)
+Ali Siaj · [LinkedIn](https://www.linkedin.com/in/ali-siaj) · Other projects: [Swarm Wrath](https://github.com/Ali-Siaj/swarm-wrath) · [Vision Automation Bot](https://github.com/Ali-Siaj/vision-automation-bot)
